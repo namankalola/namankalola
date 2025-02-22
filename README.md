@@ -30,6 +30,19 @@ This repository contains a **comprehensive automation testing framework** design
 | **Version Control** | Git, Bitbucket |
 | **Test Management** | JIRA, ALM, QTest, Zephyr |
 
+## 🎓 Education  
+- **Bachelor of Engineering in Information Technology**  
+  Gujarat Technological University (2012) – **8.09 CGPA**  
+- **Higher Secondary Education (HSC)**  
+  Shree Swaminarayan Gurukul Vidyalaya, Surat (2008) – **70%**  
+- **Secondary School Certificate (SSC)**  
+  Shree Swaminarayan Gurukul, Rajkot (2006) – **84%**  
+
+## 🏅 Certifications  
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- **VSkills Certified: Selenium Professional**  
+- **ISTQB Certified Tester – Foundation Level (CTFL)** 
+
 ## 💼 Work Experience  
 
 ### **Accenture Solution Pvt. Ltd.** (Oct 2021 – Present)  
