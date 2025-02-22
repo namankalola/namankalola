@@ -7,11 +7,6 @@
 - **LinkedIn:** [Namankumar-Kalola](https://www.linkedin.com/in/namankumar-kalola-83648615/)  
 - **Email:** [namankalola@yahoo.com](mailto:namankalola@yahoo.com)  
 
----
-
-## 📂 Repository Overview  
-This repository contains a **comprehensive automation testing framework** designed to support web, API, and performance testing. It integrates industry-standard tools and follows best practices to enable **scalable, maintainable, and efficient automation testing**.  
-
 ### ✨ Features  
 - 🚀 **Web Automation:** Selenium + TestNG + BDD Cucumber  
 - 🌐 **API Testing:** REST Assured + Postman  
@@ -87,4 +82,7 @@ This repository contains a **comprehensive automation testing framework** design
 - **Key Contributions:**  
   - Delivered **15+ projects**, including **functional, regression, and GUI testing** for web and mainframe applications.  
   - Created automation scripts using **Selenium + Cucumber** and developed macros for generating reports.  
-  - Developed **Excel macro utilities**, reducing **loan onboarding time by 98%**, earning client appreciation.  
+  - Developed **Excel macro utilities**, reducing **loan onboarding time by 98%**, earning client appreciation.
+ 
+## 📂 Repository Overview  
+This repository contains a **comprehensive automation testing framework** designed to support web, API, and performance testing. It integrates industry-standard tools and follows best practices to enable **scalable, maintainable, and efficient automation testing**. 
